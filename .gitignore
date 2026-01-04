@@ -1,3 +1,7 @@
 # 输出目录
 out/
 
+# Python 缓存
+__pycache__/
+*.pyc
+
